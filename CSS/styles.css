@@ -62,7 +62,7 @@ ul li {
     height: 91vh;
     width: 100%;
     position: relative;
-    background-image: url("/images/Welcome.webp");
+    background-image: url("/images/Welcome.jpg");
     background-size: cover;
     transform: translateY(100px);
     opacity: 0;
